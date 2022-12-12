@@ -6,8 +6,8 @@ ruby "3.1.3"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.4"
 
-#react with rails
-gem 'react-rails'
+#webpacker is the webpack wrapper
+gem "webpacker"
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
