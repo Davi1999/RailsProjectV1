@@ -45,3 +45,4 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+/.idea/git_toolbox_prj.xml
